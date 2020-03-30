@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="blueLight">#7283BB</color>
+    <color name="blueDark">#262D6F</color>
+    <color name="hintcolor_login">#D85E5B5B</color>
+    <color name="background">#485E5B5B</color>
+    <color name="dashboard">#D85E5B5B</color>
+    <color name="toolbar">#474545</color>
+    <color name="textcolor">#ffffff</color>
+    <color name="textcolor_login">#2D2D2E</color>
+    <color name="black_overlay">#66000000</color>
+</resources>
